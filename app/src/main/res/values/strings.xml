@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">zad4</string>
+    <string name="count_label">Count:</string>
+    <string name="RGB2G_label">RGB2G:</string>
+    <string name="back_button">Back</string>
+    <string name="forward_button">Forward</string>
+    <string name="RGB2G_button">RGB2G</string>
+    <string name="quit_button">Quit</string>
 </resources>
