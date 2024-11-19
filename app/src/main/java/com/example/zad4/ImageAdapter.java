@@ -50,4 +50,8 @@ public class ImageAdapter extends BaseAdapter {
 
         return foto;
     }
+
+    public int[] getImageResources() {
+        return Zdj;
+    }
 }
